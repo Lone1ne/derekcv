@@ -1,0 +1,24 @@
+body {
+  background-color: #A5C9CA;
+}
+hr {
+  border-color: #395B64;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+h1 {
+  color: #2C3333;
+}
+h3 {
+  color: #395B64;
+}
+
+img:hover {
+  background-color: orange;
+}
+
+a:hover {
+  background-color: orange;
+}
